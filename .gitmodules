@@ -1,18 +1,25 @@
 [submodule "submodules/libtgvoip"]
 	path = submodules/libtgvoip
-url=git@github.com:telegramdesktop/libtgvoip
+	url = git@github.com:vinux-app/libtgvoip.git
+	branch = master
 [submodule "submodules/Sparkle"]
 	path = submodules/Sparkle
-url=git@gitlab.com:overtake/Sparkle.git
+	url = git@github.com:vinux-app/Sparkle.git
+	# url = https://github.com/sparkle-project/Sparkle.git
+	branch = 7918c1c8fc68baa37917eeaa67286b077ad5e393
 [submodule "submodules/telegram-ios"]
 	path = submodules/telegram-ios
-url=git@github.com:overtake/Telegram-iOS.git
+	url = git@github.com:vinux-app/Telegram-iOS.git
+	branch = master
 [submodule "submodules/rlottie"]
 	path = submodules/rlottie
-url=git@github.com:overtake/rlottie.git
+	url = git@github.com:vinux-app/rlottie.git
+	branch = master
 [submodule "submodules/tgcalls"]
 	path = submodules/tgcalls
-	url = git@github.com:john-preston/tgcalls.git
+	url = git@github.com:vinux-app/tgcalls.git
+	branch = master
 [submodule "submodules/tg_owt"]
 	path = submodules/tg_owt
-	url = git@github.com:desktop-app/tg_owt.git
+	url = git@github.com:vinux-app/tg_owt.git
+	branch = master
